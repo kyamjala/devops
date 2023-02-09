@@ -81,12 +81,12 @@
         <repository>
           <id>nexus</id>
           <name>KC Tech Releases Nexus Repository</name>
-          <url>http://13.127.237.158:8081/repository/naresh-release/</url>
+          <url>http://52.66.147.29:8081/repository/naresh-release/</url>
         </repository>
         <snapshotRepository>
           <id>nexus</id>
           <name>KC Tech Snapshot Nexus Repository </name>
-           <url>http://13.127.237.158:8081/repository/naresh-snapshot/</url>
+           <url>http://52.66.147.29:8081/repository/naresh-snapshot/</url>
         </snapshotRepository>
    </distributionManagement>
 	
